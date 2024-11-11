@@ -29,7 +29,7 @@ Tic-Tac-Toe/
    ```
 2. **Navigate to the project directory**:
    ```bash
-   cd tic-tac-toe
+   cd Tictactoe
    ```
 3. **Open `index.html` in a browser** to start the game.
 
